@@ -11,4 +11,4 @@ docker compose up -d
 - Optionally, you can do this through command prompt. Open your command prompt and change the directory according to the path of your spring boot application. Then run the command mentioned above.
 
 ## Open your browser and go to the designated localhost.
-- In your browser, go to http://localhost:8080
+- In your browser, go to http://localhost:3000
