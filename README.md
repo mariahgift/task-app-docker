@@ -6,7 +6,7 @@
 
 docker compose build
 
-docker compose up -d
+docker compose up 
 
 - Optionally, you can do this through command prompt. Open your command prompt and change the directory according to the path of your spring boot application. Then run the command mentioned above.
 
