@@ -1,0 +1,6 @@
+com\mdi\taskapp\controller\TaskController.class
+com\mdi\taskapp\service\TaskService.class
+com\mdi\taskapp\entity\Task.class
+com\mdi\taskapp\repository\TaskRepository.class
+com\mdi\taskapp\TaskAppApplication.class
+com\mdi\taskapp\service\TaskServiceInterface.class
